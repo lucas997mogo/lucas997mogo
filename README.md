@@ -1,40 +1,42 @@
+# Hi, I'm Lucas 👋
 
-# 👩‍💻 Developer in Action 🚀
+I'm a full stack developer from São Paulo, Brazil. I studied Systems Analysis and Development at FIAP and have been working with software for 2 years, mostly on insurance platforms: C# / .NET microservices, Angular frontends and plenty of integrations with external APIs.
 
+Right now I'm working on strengthening my fundamentals and learning to build with cloud and AI. This profile is where I'll share what I make along the way.
 
-Welcome to my profile! I’m [Lucas Rodrigues], an aspiring developer with a passion for Systems Analysis and Development. This space reflects my journey into the world of programming and technology. Here you’ll find projects, learnings, and much more!
+## What I work with
 
-# 🔧 Technologies and Tools
+Day to day: C#, .NET, Angular, TypeScript, PHP and SQL Server.
 
-Here are some of the tools and technologies I am learning and using:
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,php,js,aws,git,github,vscode,visualstudio&theme=dark" alt="Tech stack" />
+</p>
 
-## Programming Languages:       
-   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="75" height="90"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="75" height="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="75" height="90" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="75" height="90" />
-## Frameworks and Libraries:
+From college and side projects: Java, Python, React, Node.js and MySQL.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="75" height="90"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="75" height="90"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="75" height="90"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="75" height="90"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="75" height="90"/>       
-        
-## Databases: 
+## What I'm up to
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="75" height="90"/>
-          
-## Development Tools:
+- ☁️ Building a document-processing pipeline on AWS with S3, Lambda, SQS and Amazon Bedrock (repo coming soon)
+- 🧠 Practicing algorithms and data structures in C#
+- 🗣️ Improving my technical English by reading docs and writing READMEs in it
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="75" height="90"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="75" height="90"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="75" height="90"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="75" height="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="75" height="90"/>        
+## What I'm learning
 
+Event-driven architecture, AWS, applied AI (structured outputs, RAG) and system design.
 
-# 🌟 Connect with Me
-I would love to exchange ideas, collaborate on projects, or just chat about technology! Feel free to reach out through the following channel:
+## Certifications
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="75"/>](https://www.linkedin.com/in/lucas-rodrigues-393768241/)
+- AWS Certified Cloud Practitioner
+- Oracle Cloud Infrastructure 2025 Certified Architect Associate
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 
-          
+## Get in touch
 
-Thank you for visiting my repository! Let’s build the future of technology together. 🚀
+I'm always up for a chat about software, cloud and AI.
 
-<div>
-<a href="https://github.com/lucas997mogo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas997mogo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas997mogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Rodrigues-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-393768241/)
+
+<!--
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas997mogo&layout=compact&langs_count=7&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas997mogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+-->
